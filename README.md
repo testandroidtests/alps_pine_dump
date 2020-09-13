@@ -1,0 +1,13 @@
+# pine-user 7.0 2.92.J.7.97_201904232207 1556033626 test-keys
+- manufacturer: sony
+- platform: mt6737t
+- codename: pine
+- flavor: pine-user
+- release: 7.0
+- id: 43.0.A.7.106
+- incremental: 1556033626
+- tags: test-keys
+- fingerprint: alps/pine/pine:7.0/2.92.J.7.97_201904232207/1556033626:user/test-keys
+- brand: alps
+- branch: pine-user-7.0-2.92.J.7.97_201904232207-1556033626-test-keys
+- repo: alps_pine_dump

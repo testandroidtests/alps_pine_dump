@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<permissions>
+    <library
+            name="com.sonymobile.imageprocessor.superresolution.api"
+            file="/system/framework/com.sonymobile.imageprocessor.superresolution_impl.jar"
+    />
+    <library
+            name="com.sonymobile.imageprocessor.jpegencoder.api"
+            file="/system/framework/com.sonymobile.imageprocessor.jpegencoder_impl.jar"
+    />
+    <library
+            name="com.sonymobile.imageprocessor.bypasscamera.api"
+            file="/system/framework/com.sonymobile.imageprocessor.bypasscamera_impl.jar"
+    />
+</permissions>
+

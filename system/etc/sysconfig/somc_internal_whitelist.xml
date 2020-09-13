@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2015 Sony Mobile Communications Inc.
+  All rights, including trade secret rights, reserved.
+-->
+
+<config>
+    <!-- These are the standard packages that are white-listed to always have internet
+         access while in power save mode, even if they aren't in the foreground. -->
+
+    <!-- power-save -->
+    <allow-in-power-save package="com.sonyericsson.updatecenter" />
+
+    <!-- except-idle -->
+    <allow-in-power-save-except-idle package="com.sonymobile.exchange" />
+    <allow-in-power-save-except-idle package="com.google.android.gm.exchange" />
+    <allow-in-power-save-except-idle package="com.sonymobile.cameracommon" />
+    <allow-in-power-save-except-idle package="com.sonymobile.dlna" />
+    <allow-in-power-save-except-idle package="com.sonymobile.deviceconfigtool" />
+
+    <!-- data-save -->
+    <allow-in-data-usage-save package="com.sonyericsson.conversations" />
+</config>

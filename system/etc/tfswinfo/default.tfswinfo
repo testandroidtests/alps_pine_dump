@@ -1,0 +1,13 @@
+debug   EnableLog                                                        false
+
+package *ALL*                                                            Category=0
+
+package com.android.browser                                              Category=1
+package com.android.chrome                                               Category=1
+package com.google.android.apps.maps                                     Category=1
+
+package com.android.launcher                                             Category=2
+package com.android.settings                                             Category=2
+package com.sonyericsson.album                                           Category=2
+package com.sonyericsson.home                                            Category=2
+package com.sonymobile.simplehome                                        Category=2
